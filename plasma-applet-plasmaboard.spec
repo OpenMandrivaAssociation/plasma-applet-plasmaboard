@@ -1,6 +1,6 @@
 Name:           plasma-applet-plasmaboard
 Summary:        Plasmaboard is an On-screen keyboard for kde4
-Version:        0.5
+Version:        0.8
 Release:        %mkrel 1
 Url:            http://kde-look.org/content/show.php/Plasmaboard?content=101822
 License:        GPLv2+
